@@ -7,7 +7,7 @@ public class 漂浮 : MonoBehaviour
     //User Inputs
     public float degreesPerSecond = 15.0f;
     public float amplitude = 0.5f;
-    public float frequency = 1.0f;
+    public float frequency = 0.7f;
 
     //positon storage Variables
     Vector3 posOffset = new Vector3();
